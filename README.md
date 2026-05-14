@@ -16,9 +16,7 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=tanishy2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=94a3b8&ring_color=0ea5e9"/>
-
-### `> whoami`
+### `> Profile`
 
 ```yaml
 name        : Tanish Y
@@ -37,7 +35,7 @@ passion     : Bridging theory and physical implementation
 
 > *"I build things that work underwater, in the air, and inside silicon."*
 
-<br clear="right"/>
+
 
 ---
 
