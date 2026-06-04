@@ -9,7 +9,7 @@
 <br/>
 
 ![CGPA](https://img.shields.io/badge/CGPA-9.78%20%2F%2010-0ea5e9?style=for-the-badge&logo=academia&logoColor=white)
-![Batch Rank](https://img.shields.io/badge/Batch%20Rank-%231%20in%20ECE%202024-22c55e?style=for-the-badge&logo=trophy&logoColor=white)
+![Batch Rank](https://img.shields.io/badge/Batch%20Rank-%231%20in%20ECE%202028-22c55e?style=for-the-badge&logo=trophy&logoColor=white)
 ![Institute](https://img.shields.io/badge/VIT%20Chennai-B.Tech%20ECE-f97316?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
