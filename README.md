@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Rank+%231+%E2%80%94+2024+ECE+Batch+%7C+VIT+Chennai;Bridging+Theory+%26+Physical+Implementation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Rank+%231+%E2%80%94+2028+ECE+Batch+%7C+VIT+Chennai;Bridging+Theory+%26+Physical+Implementation)](https://git.io/typing-svg)
 
 <br/>
 
